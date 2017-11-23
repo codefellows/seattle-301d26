@@ -1,6 +1,6 @@
 
-# seattle-301d28
-*Class lecture repo for seattle-301d28. Lead Instructor: Allie Grampa*
+# seattle-301d26
+*Class lecture repo for seattle-301d26. Lead Instructor: Scott Schmidt
 
 <a id="top"></a>
 ## Code 301
@@ -74,7 +74,7 @@ The View module begins in Class 1 with an introduction to mobile-first design an
 
 ***The focus of this week is on the MVC model layer through the use of Node.js and PostgreSQL, providing students their first hands-on interaction with a full-stack application.***
 
-The Model module begins in Class 6 with an introduction to the use of AJAX and JSON in the contexts of both the Web Request/Response Cycle (WRRC) and locally stored data files. In addition, the ES6 `let` and `const` variable declarations are presented on this day. The primary jQuery AJAX methods used during this week are **$.ajax(), $.get(), $.getJSON()**. Class 7 is an introduction to server-side code using Node.js, NPM, and Express. In Class 8 students are introduced to CRUD, persistence, and database concepts and get their first exposure to PostgreSQL. Class 9 focuses on more advanced SQL topics including joins and relations. Class 10 is an introduction to concepts of functional programming via the use of the JavaScript array methods **.map(), .filter(), .reduce()**.  
+The Model module begins in Class 6 with an introduction to the use of AJAX and JSON in the contexts of both the Web Request/Response Cycle (WRRC) and locally stored data files. In addition, the ES6 `let` and `const` variable declarations are presented on this day. The primary jQuery AJAX methods used during this week are **$.ajax(), $.get(), $.getJSON()**. Class 7 is an introduction to server-side code using Node.js, NPM, and Express. In Class 8 students are introduced to CRUD, persistence, and database concepts and get their first exposure to PostgreSQL. Class 9 focuses on more advanced SQL topics including joins and relations. Class 10 is an introduction to concepts of functional programming via the use of the JavaScript array methods **.map(), .filter(), .reduce()**.
 
 ##### Week 2 (Model) Learning Objectives
 
@@ -102,9 +102,6 @@ The Controller module begins in Class 11 with an introduction to single-page app
 In teams, students create a single page web application that demonstrates command of all of the primary concepts discussed in this course.  Overall, the application should make API calls, have dynamic functionality, and display a well-factored MVC architecture. Groups should be generally be self-managing. They will need to have proper Agile processes in place in order to keep their project in scope and delivered on time.
 
 [-top-](#top)
-
-
-
 
 ---
 
