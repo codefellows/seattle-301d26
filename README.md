@@ -1,6 +1,6 @@
 
 # seattle-301d26
-*Class lecture repo for seattle-301d26. Lead Instructor: Scott Schmidt
+*Class lecture repo for seattle-301d26. Lead Instructor: Scott Schmidt*
 
 <a id="top"></a>
 ## Code 301
