@@ -1,6 +1,10 @@
 # seattle-301d26
 *Class lecture repo for seattle-301d26. Lead Instructor: Scott Schmidt*
 
+[![](https://img.shields.io/badge/canvas-301n6-blue.svg)](https://canvas.instructure.com/courses/1249099)
+[![](https://img.shields.io/badge/Labs-301n6-yellow.svg)](https://github.com/codefellows-seattle-301d26)
+[![](https://img.shields.io/badge/slack-301n6-orange.svg)](https://codefellows.slack.com/messages/seattle-301d26)
+
 <a id="top"></a>
 ## Code 301
 
