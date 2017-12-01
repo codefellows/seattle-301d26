@@ -4,6 +4,11 @@
 
 *jQuery is a JavaScript library and a powerful tool in web development that handles a variety of common tasks. Today we will be exploring how to use jQuery to interact with the DOM: selection, updating content, and traversal.*
 
+## Readings
+
+* Javascript & jQuery: pages 293-325
+  * (Context: 293-301; Essential: 310-325; Reference: 302-309)
+
 ## Daily Plan
 
 
@@ -16,7 +21,3 @@
 * Differentiate between certain methods & the process of chaining.
 * Understand proper `<script>` loading order in HTML.
 
-## Readings
-
-* Javascript & jQuery: pages 293-325
-  * (Context: 293-301; Essential: 310-325; Reference: 302-309)

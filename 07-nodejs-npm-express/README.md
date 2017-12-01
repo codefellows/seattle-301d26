@@ -7,6 +7,14 @@
 
 *This lab is another one that is on the lighter side, but the next three labs are probably the toughest of the course. Resist the temptation to coast once you've completed the lab following this class! Make sure that you understand EVERYTHING in the starter code inside and out!!!*
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+- [Node.js introduction on tutorialspoint.com](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
+- [An Introduction to Node.js" on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
+- [The Node Beginner Book](http://www.nodebeginner.org/)
+
+Not a reading, but useful: [JSONLint](http://jsonlint.com/) is your friend when you are trying to create/check JSON. It will help your track down malformed JSON.
+
 ## Daily Plan
 
 
@@ -26,11 +34,3 @@
 	* Usage and best practices when implementing a NodeJS project using NPM packages and package.json configs
 	* Understand the basics of working with ExpressJS for server-side routing and functionality
 
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-- [Node.js introduction on tutorialspoint.com](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
-- [An Introduction to Node.js" on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
-- [The Node Beginner Book](http://www.nodebeginner.org/)
-
-Not a reading, but useful: [JSONLint](http://jsonlint.com/) is your friend when you are trying to create/check JSON. It will help your track down malformed JSON.

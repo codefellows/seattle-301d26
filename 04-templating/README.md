@@ -5,6 +5,11 @@
 
 *Templates have some advantages over direct DOM manipulation. Leverage those strengths in the blog by adding in a templating library! We use templating to abstract away the tiresome work of DOM rendering, and this practice is applied in many front-end libraries and frameworks.*
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+* [Handlebars.js Official Documentation](http://handlebarsjs.com/) (Reference)
+* [Learn Handlebars.js in 10 Minutes tutorial](http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/) (Essential)
+
 ## Daily Plan
 
 
@@ -26,10 +31,3 @@ ABCD:
 * Distinguish between the different Handlebars expression types ( **{{}}** vs **{{{}}}** ).
 
 * Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**, etc)
-
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-* [Handlebars.js Official Documentation](http://handlebarsjs.com/) (Reference)
-
-* [Learn Handlebars.js in 10 Minutes tutorial](http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/) (Essential)

@@ -5,6 +5,11 @@
 
 *The focus of this class is on basic functional programming concepts through the use of the following array methods: `.forEach()`, `.map()`, `.filter()`, and `.reduce()`.*
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+* READ: Js&JQ p 528-543 (Essential)
+* [Eloquent JavaScript, Ch.5 Higher Order Function*s](http://eloquentjavascript.net/05_higher_order.html) (Essential)
+
 ## Daily Plan
 
 
@@ -33,8 +38,3 @@ ABCD:
 * Correctly use **.forEach(), .map(), .filter(), .reduce()** array methods to explore a data set
 * Construct modularity with IIFE patterns
 
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-* READ: Js&JQ p 528-543 (Essential)
-* [Eloquent JavaScript, Ch.5 Higher Order Function*s](http://eloquentjavascript.net/05_higher_order.html) (Essential)

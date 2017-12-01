@@ -5,6 +5,11 @@
 
 *This class focuses on introducing the underlying concepts of jQuery-based events, event binding, event delegation, and effects.*
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+* JavaScript & jQuery: pages 326-366
+  *(Context: 354-361; Essential: 322-353; Reference: 362-366)*
+
 ## Daily Plan
 
 
@@ -29,9 +34,3 @@ ABCD:
 
 * Familiarity with `data-`attributes & concatenation.
 
-
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-* JavaScript & jQuery: pages 326-366
-  *(Context: 354-361; Essential: 322-353; Reference: 362-366)*

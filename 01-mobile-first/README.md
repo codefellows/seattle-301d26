@@ -4,7 +4,31 @@
 
 *This class focuses on the fundamentals of mobile first design and development, and includes discussion of CSS modularity (using SMACSS), layout development, media queries for DESKTOP styling, and overall design best practices.*
 
+## Readings
+
+* [Shay Howe’s intro to RWD](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/) (Essential)
+* [Dale Sande's Intro to SMACSS](http://www.anotheruiguy.com/ux-design-dev/_book/smacss/README.html) (Essential)
+* [SMACSS Official Documentation](https://smacss.com/) (Reference)
+* In-Depth (optional) [Dale Sande’s intro](http://www.anotheruiguy.com/ux-design-dev/_book/rwd/README.html) to RWD (Reference)
+
 ## Daily Plan
+- Notes:
+  - Welcome to Code 301!
+  - Overview of the course
+    - Daily workflow
+    - Daily Katas
+    - Git/Github
+
+- Day 1 Content:
+  - Mobile First Design
+  - Responsive Web Design
+  - Flexible Layouts
+  - Viewport Metas
+  - SMACSS
+  - Icon Fonts
+  - Before/After pseudo elements
+
+- Lab Preview _Introduction to Kilavolt Blog_
 
 
 ## Learning Objectives
@@ -26,9 +50,3 @@
 * Understand the basics of the `:before` and `:after` pseudo elements - these will be used to display icons on the front end.
 * The importance of reading, using, and creating documentation.
 
-## Readings
-
-* [Shay Howe’s intro to RWD](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/) (Essential)
-* [Dale Sande's Intro to SMACSS](http://www.anotheruiguy.com/ux-design-dev/_book/smacss/README.html) (Essential)
-* [SMACSS Official Documentation](https://smacss.com/) (Reference)
-* In-Depth (optional) [Dale Sande’s intro](http://www.anotheruiguy.com/ux-design-dev/_book/rwd/README.html) to RWD (Reference)

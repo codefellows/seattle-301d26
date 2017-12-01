@@ -5,6 +5,11 @@
 
 *The focus of this day is on solidifying the underlying concepts of the REST architectural style and how to interact with application resources through the use of the HTTP verbs, jQuery AJAX methods, and keys or tokens as needed, to make GET requests to external public APIs.*
 
+## Supplemental/Review Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+- ["How I Explained REST to My Brother*"](https://gist.github.com/brookr/5977550)
+- [https://developer.github.com/guides/getting-started](https://developer.github.com/guides/getting-started/)
+
 ## Daily Plan
 
 
@@ -22,9 +27,3 @@ ABCD:
 * Understand the history of HTTP, and the central role that REST plays.
 * Use RESTful routes for a web service, to retrieve their own GitHub repos using an authentication token
 
-## Supplemental/Review Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-- ["How I Explained REST to My Brother*"](https://gist.github.com/brookr/5977550)
-- [https://developer.github.com/guides/getting-started](https://developer.github.com/guides/getting-started/)
-- [What is OAuth? (watch videos at the bottom*)](http://searchsoa.techtarget.com/definition/OAuth)

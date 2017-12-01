@@ -9,6 +9,10 @@ Note that we probably will not get to 100% functionality in our workshop today *
 
 We'll not work to a schedule, but instead work for an hour or so, take a break, etc., until we finish (or, more accurately, get as close to finished as we're going to get ;-) within our available time.
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+* *(There are no readings for this day)*
+
 ## Daily Plan
 
 
@@ -35,7 +39,3 @@ ABCD:
 
 * Discuss 3rd party library integration for dynamic code highlighting and Markdown creation.
 
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-*(There are no readings for this day)*

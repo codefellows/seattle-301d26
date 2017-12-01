@@ -7,6 +7,11 @@
 
 *View this class and the next class and labs as a big two-part structure. It's all the same basic subject, but way too much for one day, so we've split it.*
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+* [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
+* [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
+
 ## Daily Plan
 
 
@@ -27,10 +32,3 @@ ABCD:
 
 * Understand the fundamental architecture of full-stack applications and how we can locally emulate them
 
-
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-
-* [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
-
-* [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
