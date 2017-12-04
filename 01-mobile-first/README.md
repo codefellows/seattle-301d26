@@ -12,6 +12,13 @@
 * In-Depth (optional) [Dale Sande’s intro](http://www.anotheruiguy.com/ux-design-dev/_book/rwd/README.html) to RWD (Reference)
 
 ## Daily Plan
+9:00a
+- Morning: Intro to 00-Labs
+- [LAB/Lunch]
+11:00a
+- Kickoff in Lovelace w/Brandy
+
+2:00p
 - Notes:
   - Welcome to Code 301!
   - Overview of the course
