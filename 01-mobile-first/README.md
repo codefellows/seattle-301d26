@@ -21,6 +21,7 @@
 2:00p
 - Notes:
   - Welcome to Code 301!
+  - Holiday calendar notes
   - Overview of the course
     - Daily workflow
     - Daily Katas
