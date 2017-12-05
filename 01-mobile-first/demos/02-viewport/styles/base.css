@@ -1,0 +1,17 @@
+p, img {
+  width: 100%;
+}
+
+main {
+  width: 100%;
+}
+
+p {
+  font-size: 2vw;
+  width: 80%;
+  margin: 0 auto;
+}
+
+html, body {
+  background: #baddad;
+}

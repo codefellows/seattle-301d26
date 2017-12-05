@@ -22,6 +22,7 @@
 - Notes:
   - Welcome to Code 301!
   - Holiday calendar notes
+  - Scott's Schedule
   - Overview of the course
     - Daily workflow
     - Daily Katas

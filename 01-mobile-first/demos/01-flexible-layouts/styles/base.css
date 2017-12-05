@@ -1,0 +1,18 @@
+html, body {
+  background: red;
+}
+
+@media screen and (min-width: 900px) {
+  html, body {
+    background: blue;
+  }
+}
+
+/* Don't overlap pixel sizes like this... and don't mix and match max/min properties */
+/*
+@media screen and (max-width: 900px) {
+  html, body {
+    background: purple;
+  }
+} */
+
