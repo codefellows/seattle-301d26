@@ -10,14 +10,21 @@
   * (Context: 293-301; Essential: 310-325; Reference: 302-309)
 
 ## Daily Plan
+- Notes:
+  - Anything top of mind?
 
+- Code Review _CSSify & Icon Fonts_
+    - Setting upstream remotes!
+- jQuery _all the things!_
+    - [jquery cheatsheet](https://oscarotero.com/jquery/)
+- Lab Preview _jQuery traversal and manipulation_
 
 ## Learning Objectives
 
 * Understand why the jQuery library is useful and how to include it (local vs CDN).
 * What is a dependency?
 * Perform DOM manipulations using jQuery methods `$.addClass()`, `$removeClass()`, `$.append()`, `$.remove()`, `$.clone()`, `$.data()`, `$.html()`, `$.text()`.
-* Traverse the DOM tree with `$.parents()`, `$.children()`, `$.find()`.
+* Traverse the DOM tree with `$.parent()`, `$.children()`, `$.find()`.
 * Differentiate between certain methods & the process of chaining.
 * Understand proper `<script>` loading order in HTML.
 
