@@ -11,6 +11,12 @@
   *(Context: 354-361; Essential: 322-353; Reference: 362-366)*
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review _jQuery Traversal & Manipulation_
+- jQuery Events & Delegation & CSS Fun
+- Lab Preview
 
 
 ## Learning Objectives
@@ -25,12 +31,8 @@ ABCD:
 -->
 
 * Execute event bindings with jQuery’s `$.on()` method
-
-- Deter students from using the event method and to instead bind the event using `$.on()`
-
+    - Deter students from using the event method and to instead bind the event using `$.on()`
 * Comprehend when event delegation is appropriate.
-
 * Be able to configure event bindings using delegation.
-
 * Familiarity with `data-`attributes & concatenation.
 
