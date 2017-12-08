@@ -23,7 +23,10 @@ let template = Handlebars.compile(source)
 
 peeps.forEach(person => {
   let sectionEl = document.getElementById('people')
-  let completeTemplate = template(person)
-  console.log(completeTemplate)
+
+  let completeTemplate = document.createElement('div')
+  completeTemplate.innerHTML = template(person)
+
+
   sectionEl.appendChild(completeTemplate)
 })
