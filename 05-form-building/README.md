@@ -14,6 +14,11 @@ We'll not work to a schedule, but instead work for an hour or so, take a break, 
 * *(There are no readings for this day)*
 
 ## Daily Plan
+- Notes
+    - Anything top of mind?
+- Code Review
+- Form Workshop _Lets create a form page to add new articles to our persistence layer_
+- Lab Preview
 
 
 ## Learning Objectives
@@ -28,14 +33,9 @@ ABCD:
 -->
 
 * Recap the primary concepts discussed throughout the week.
-
     * "What have you learned so far?"
-
     * "What has been challenging to learn?"
-
     * "What has been helpful?"
-
 * Work through a form-based exercise to harvest data from a form using jQuery, eventually building out a JSON string.
-
 * Discuss 3rd party library integration for dynamic code highlighting and Markdown creation.
 
