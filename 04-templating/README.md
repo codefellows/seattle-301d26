@@ -11,6 +11,14 @@
 * [Learn Handlebars.js in 10 Minutes tutorial](http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/) (Essential)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review _jQuery Events!_
+- Arrow Functions
+- Regular Expressions (Regex)
+- HTML Templating with HandlebarsJS
+- Lab Preview
 
 
 ## Learning Objectives
@@ -25,9 +33,6 @@ ABCD:
 -->
 
 * Identify different approaches to reusable HTML templates
-
 * Effectively use templates to present user-entered (or server-provided) data (methods on the Handlebars object).
-
 * Distinguish between the different Handlebars expression types ( **{{}}** vs **{{{}}}** ).
-
 * Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**, etc)
