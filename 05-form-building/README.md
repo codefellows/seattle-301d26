@@ -16,6 +16,8 @@ We'll not work to a schedule, but instead work for an hour or so, take a break, 
 ## Daily Plan
 - Notes
     - Anything top of mind?
+    - A look ahead at next week
+
 - Code Review
 - Form Workshop _Lets create a form page to add new articles to our persistence layer_
 - Lab Preview
