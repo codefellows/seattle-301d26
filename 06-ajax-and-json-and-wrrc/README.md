@@ -15,7 +15,14 @@
 * [MDN localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) (Essential)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - TA grading changes
 
+- Web Request Response Cycle _How the web works!_
+- JSON review
+- AJAX
+- Lab Preview
 
 
 ## Learning Objectives
