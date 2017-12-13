@@ -1,0 +1,32 @@
+{
+  "name": "01-npm",
+  "version": "1.0.0",
+  "description": "simple demo with npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sjschmidt44/somecoolrepo.git"
+  },
+  "keywords": [
+    "demo",
+    "code",
+    "fellows",
+    "301",
+    "booyaa"
+  ],
+  "author": "Scott Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjschmidt44/somecoolrepo/issues"
+  },
+  "homepage": "https://github.com/sjschmidt44/somecoolrepo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cowsay": "^1.2.1",
+    "express": "^4.16.2",
+    "react": "^16.2.0"
+  }
+}

@@ -16,6 +16,14 @@
 Not a reading, but useful: [JSONLint](http://jsonlint.com/) is your friend when you are trying to create/check JSON. It will help your track down malformed JSON.
 
 ## Daily Plan
+- Notes:
+		- Code Review _At the end, if we have time!_
+		- Anything top of mind, pressing issues?
+
+- Managing Dependencies with NPM
+- NodeJS
+- ExpressJS
+- Lab Preview
 
 
 ## Learning Objectives

@@ -13,7 +13,13 @@
 * [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
 
+- Code Review
+- PostgreSQL
+- SQL
+- Lab Preview
 
 ## Learning Objectives
 <!--
