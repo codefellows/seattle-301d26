@@ -1,0 +1,19 @@
+{
+  "name": "00-code-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "cowsay": "cowsay"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cowsay": "^1.2.1",
+    "express": "^4.16.2"
+  }
+}

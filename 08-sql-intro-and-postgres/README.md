@@ -14,11 +14,13 @@
 
 ## Daily Plan
 - Notes:
+    - Admissions info!
     - Anything top of mind?
 
 - Code Review
-- PostgreSQL
-- SQL
+- PostgreSQL _DB Software_
+- SQL _DB Language_
+- PG Module / Library _wrappers? ORMs?_
 - Lab Preview
 
 ## Learning Objectives
