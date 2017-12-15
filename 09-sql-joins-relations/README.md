@@ -12,6 +12,14 @@
 * [Visual Guide to SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review
+- DB Relationships
+- SQL Joins / Normalization
+- JS Syntax _gather & spread_ (time permitting)
+- Lab Preview
 
 
 ## Learning Objectives
