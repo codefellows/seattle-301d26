@@ -8,9 +8,20 @@
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
 * READ: Js&JQ p 528-543 (Essential)
-* [Eloquent JavaScript, Ch.5 Higher Order Function*s](http://eloquentjavascript.net/05_higher_order.html) (Essential)
+* [Eloquent JavaScript, Ch.5 Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html) (Essential)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Functional Programming
+    - Mutability v. Immutability
+    - Pure functions
+    - Declarative v. Imperative
+- Array Methods _Map, Filter, Reduce_
+- CSS Custom Form Styling
+- Code Review _time permitting_
+- Lab Preview
 
 
 ## Learning Objectives

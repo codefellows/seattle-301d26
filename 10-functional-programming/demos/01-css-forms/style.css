@@ -1,0 +1,57 @@
+* {
+  width: 100%;
+  /* display: block; */
+  border: 0;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* head, script, link {
+  display: none;
+} */
+
+.form input{
+  display: none;
+}
+
+form .labels {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 15px;
+  display: block;
+  transition: 350ms;
+  position: relative;
+}
+
+.labels div {
+  border: 1px solid grey;
+  background-color: white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  transition: 350ms;
+}
+
+input[type="checkbox"]:not(:checked) + label {
+  background-color: red;
+}
+
+/* :placeholder-shown */
+
+/* #input-pri:not(:checked) ~ label {
+  background-color: red;
+} */
+
+#input-pri:checked + label {
+  background-color: green;
+}
+
+#input-pri:checked + label div {
+  left: 50%;
+}
+
