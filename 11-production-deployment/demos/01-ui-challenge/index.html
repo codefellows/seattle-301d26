@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <header class="container">
+    <h1>UI Challenge - Custom Form Elements</h1>
+    <p>NOTE: <span>DO NOT</span> attempt to directly style radio buttons, checkboxes, or custom select box - you'll need to use the provided sprite sheet and a series of custom JS methods to complete this challenge... don't worry if it's not perfect - styling custom form elements can be tricky and you'll need to use your best judgement at times!</p>
+  </header>
+  <main>
+    <form class="form-main" novalidate>
+      <div class="container text-input">
+        <div>
+          <label for="input-pri" class="label">text input</label>
+          <input id="input-pri" placeholder="placeholder text" type="text">
+        </div>
+        <div>
+          <label for="input-sec" class="label">text input w/ validation error</label>
+          <input id="input-sec" placeholder="placeholder text" type="text" pattern="[a-zA-Z]+" required>
+          <label id="input-error">please enter a valid username</label>
+        </div>
+      </div>
+
+      <div class="container select-input">
+        <label class="label">select box</label>
+
+        <label class="label" for="select-pri"></label>
+        <input type="checkbox" id="select-pri">
+
+        <input class="options" type="text" readonly value="option 1">
+        <input class="options" type="text" readonly value="option 2">
+        <input class="options" type="text" readonly value="option 3">
+        <input class="options" type="text" readonly value="option 4">
+        <input class="options" type="text" readonly value="option 5">
+      </div>
+
+      <div class="container checkbox-input">
+        <label class="label">checkbox</label>
+        <div>
+          <input id="cb-pri" type="checkbox">
+          <label for="cb-pri"></label>
+        </div>
+        <div>
+          <input id="cb-sec" type="checkbox">
+          <label for="cb-sec"></label>
+        </div>
+      </div>
+
+      <div class="container radio-input">
+        <label class="label">radio</label>
+        <div>
+          <input id="radio-pri" type="radio">
+          <label for="radio-pri"></label>
+        </div>
+        <div>
+          <input id="radio-sec" type="radio">
+          <label for="radio-sec"></label>
+        </div>
+      </div>
+
+      <div class="container button-input">
+        <label class="label" for="">buttons</label>
+        <button id="btn-pri" type="button">Submit</button>
+        <button id="btn-sec" type="button">Submit</button>
+      </div>
+
+    </form>
+  </main>
+  <footer class="container"></footer>
+</body>
+</html>

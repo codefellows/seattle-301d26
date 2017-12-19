@@ -12,7 +12,21 @@
 - [IaaS, PaaS, SaaS (Explained and Compared)](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - 301d28 Project Ideas
+        - Personality test -> Recommended Movies
+        - DOTA2 API -> API stat finder
+        - Workout Generator
+        - Gmaps -> takes elevation into account!
+    - Week 3 Overview
 
+- Code Review
+- Heroku Deployment _split client and server to separate applications_
+    - ENV Vars
+
+- Week 3 Deployment Workshop
+- Lab Preview
 
 ## Learning Objectives
 <!--
