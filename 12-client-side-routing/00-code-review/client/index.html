@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./styles/reset.css">
+  <link rel="stylesheet" href="./styles/icons.css">
+  <link rel="stylesheet" href="./styles/base.css">
+  <link rel="stylesheet" href="./styles/layout.css">
+  <link rel="stylesheet" href="./styles/modules.css">
+
+  <!-- Application Templates -->
+  <script type="text/x-handlebars-template" id="error-template">
+    <h3>Oops, something went wrong!</h3>
+    <p>{{status}}: {{statusText}}</p>
+  </script>
+
+  <script type="text/x-handlebars-template" id="book-list-template">
+    <li class="book-item" data-bookid={{book_id}}>
+      <div class="book-container">
+        <img src={{image_url}}>
+        <div>
+          <h2>{{title}}</h2>
+          <p>{{author}}</p>
+        </div>
+      </div>
+    </li>
+  </script>
+
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <a href="/"><img src="http://www.bootcamps.in/wp-content/uploads/2015/06/code-fellows-shield.png" alt="logo"></a>
+      <h1>Code Fellows Books</h1>
+    </div>
+  </header>
+  <main>
+
+    <section class="error-view container">
+      <h2 class="view-title">There be an issue, cap'n</h2>
+      <section id="error-message"></section>
+    </section>
+
+    <section class="book-view container">
+      <h2 class="view-title">My Books</h2>
+      <section class="book-list">
+        <ul id="book-list"></ul>
+      </section>
+    </section>
+
+  </main>
+  <footer>
+    <aside class="social-links">
+      <ul>
+        <li><i class="icon-mail2"><a href=""></a></i></li>
+        <li><i class="icon-twitter"><a href=""></a></i></li>
+        <li><i class="icon-github"><a href=""></a></i></li>
+        <li><i class="icon-linkedin2"><a href=""></a></i></li>
+      </ul>
+    </aside>
+  </footer>
+  <!-- External CDN Resources -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+
+  <!-- Application Resources -->
+  <script src="./scripts/models/book.js" type="text/javascript"></script>
+  <script src="./scripts/views/book-view.js" type="text/javascript"></script>
+  <script src="./scripts/views/error-view.js" type="text/javascript"></script>
+</body>
+</html>

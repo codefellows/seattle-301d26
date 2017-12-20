@@ -14,6 +14,12 @@
 * [Page.js Readme](https://github.com/visionmedia/page.js) (Reference. Read up until "Plugins" section)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review _Review class 11 lab_
+- Client-side Routing _PageJS_
+- Lab Preview
 
 
 ## Learning Objectives
