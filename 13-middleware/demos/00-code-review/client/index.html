@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./styles/reset.css">
+  <link rel="stylesheet" href="./styles/icons.css">
+  <link rel="stylesheet" href="./styles/base.css">
+  <link rel="stylesheet" href="./styles/layout.css">
+  <link rel="stylesheet" href="./styles/modules.css">
+
+  <!-- Application Templates -->
+  <script type="text/x-handlebars-template" id="error-template">
+    <h3>Oops, something went wrong!</h3>
+    <p>{{status}}: {{statusText}}</p>
+  </script>
+
+  <script type="text/x-handlebars-template" id="book-list-template">
+    <li class="book-items" data-bookid={{book_id}}>
+      <div class="book-container">
+        <img src={{image_url}}>
+        <div class="book-overlay">
+          <h3>{{title}}</h3>
+          <p>{{author}}</p>
+          <button type="button" id="bookid-{{book_id}}"><a href="/books/{{book_id}}">view details</a></button>
+        </div>
+      </div>
+    </li>
+  </script>
+
+  <script type="text/x-handlebars-template" id="book-detail-template">
+    <div class="book-container">
+      <p>{{isbn}}</p>
+      <img src={{image_url}}>
+      <h3>{{title}}</h3>
+      <p>{{author}}</p>
+      <p>{{description}}</p>
+    </div>
+  </script>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <a href="/"><img src="http://www.bootcamps.in/wp-content/uploads/2015/06/code-fellows-shield.png" alt="logo"></a>
+      <h1>Code Fellows Books</h1>
+
+      <form id="pokemon-form">
+        <input type="text" placeholder="charmander" id="pokeName">
+        <button type="submit">search</button>
+      </form>
+    </div>
+  </header>
+  <main>
+    <section class="pokemon-view container">
+      <section id="pokemon-desc"></section>
+    </section>
+
+    <section class="error-view container">
+      <h2 class="view-title">There be an issue, cap'n</h2>
+      <section id="error-message"></section>
+    </section>
+    <section class="book-view container">
+      <h2 class="view-title">My Books</h2>
+      <section class="book-list">
+        <ul id="book-list"></ul>
+      </section>
+    </section>
+
+    <section class="detail-view container">
+      <h2>Detail View</h2>
+      <section id="detail-desc"></section>
+    </section>
+  </main>
+  <footer>
+    <aside class="social-links">
+      <ul>
+        <li><i class="icon-mail2"><a href=""></a></i></li>
+        <li><i class="icon-twitter"><a href=""></a></i></li>
+        <li><i class="icon-github"><a href=""></a></i></li>
+        <li><i class="icon-linkedin2"><a href=""></a></i></li>
+      </ul>
+    </aside>
+  </footer>
+  <!-- External CDN Resources -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdn.rawgit.com/visionmedia/page.js/master/page.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+
+  <!-- Application Resources -->
+  <!-- <script src="./scripts/lib/utils.js" type="text/javascript"></script> -->
+  <script src="./scripts/models/book.js" type="text/javascript"></script>
+  <script src="./scripts/views/book-view.js" type="text/javascript"></script>
+  <script src="./scripts/views/error-view.js" type="text/javascript"></script>
+  <script src="./scripts/views/routes.js" type="text/javascript"></script>
+</body>
+</html>

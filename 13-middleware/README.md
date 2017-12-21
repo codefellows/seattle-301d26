@@ -11,7 +11,13 @@
 * [Middleware Wiki (skim only)](https://en.wikipedia.org/wiki/Middleware)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind
+    - Locking your machine when not actively working on it
 
+- Code Review
+- Middleware _client-side v server-side_
+- Lab Preview
 
 ## Learning Objectives
 

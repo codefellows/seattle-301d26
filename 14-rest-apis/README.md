@@ -11,6 +11,14 @@
 - [https://developer.github.com/guides/getting-started](https://developer.github.com/guides/getting-started/)
 
 ## Daily Plan
+- Notes:
+    - Anything top of mind?
+    -
+
+- Diversity in Tech _with Brook Riggio_
+- Code Review _Which feature should we build?_
+- Working with APIs! _Google/Github_
+- Lab Preview
 
 
 ## Learning Objectives

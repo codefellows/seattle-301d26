@@ -1,0 +1,26 @@
+body {
+  background-color: #999;
+  font-family: 'helvetica';
+  color: #ddd;
+  width: 100%;
+  position: relative;
+}
+
+main {
+  max-width: 100%;
+  margin: 1vw auto;
+}
+
+header {
+  position: fixed;
+  z-index: 99;
+  background-color: #444;
+  padding: 1.5vw 0;
+  width: 100%;
+  top: 0;
+}
+
+footer {
+  width: 100%;
+  background-color: #444;
+}
