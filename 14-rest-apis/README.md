@@ -13,10 +13,10 @@
 ## Daily Plan
 - Notes:
     - Anything top of mind?
-    -
 
 - Diversity in Tech _with Brook Riggio_
 - Code Review _Which feature should we build?_
+- REST _RESTful Architecture_
 - Working with APIs! _Google/Github_
 - Lab Preview
 
