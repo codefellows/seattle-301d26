@@ -1,0 +1,32 @@
+.nav-menu {
+  display: none;
+  background-color: rgba(120, 120, 120, 0.75);
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+.nav-menu a:hover {
+  cursor: pointer;
+}
+
+.nav-menu li {
+  padding: 2vw 4vw;
+}
+
+.header-content {
+  position: relative;
+  padding: 2vw;
+}
+
+.icon-menu {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 15%; 
+  margin-top: 3%;
+  font-size: 8vw;
+  color: #d13227;
+}

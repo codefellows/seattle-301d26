@@ -1,0 +1,57 @@
+.view-title {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.book-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.book-container img {
+  min-width: 100%;
+}
+
+.book-items {
+  position: relative;
+  width: 100%;
+  margin-top:3.5vw;
+}
+
+.book-overlay {
+  background: rgba(120, 120, 120, 0.75);
+  display: block;
+  width: inherit;
+  height: 30%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.book-overlay * {
+  text-transform: capitalize;
+  padding: 1vw;
+  font-size: 3vw;
+}
+
+.book-overlay h3 {
+  font-size: 4vw;
+}
+
+.book-overlay p {
+  display: inline-block;
+  max-width: 50%;
+}
+
+.detail-button {
+  border: 1px solid grey;
+  background: rgba(120, 120, 120, 1);
+  border-radius: 3px;
+}
+
+.detail-button a {
+  text-decoration: none;
+  color: #ddd;
+}

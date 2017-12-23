@@ -1,0 +1,24 @@
+.book-detail h3 {
+  font-size: 5vw;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+.book-detail .book-container {
+  width: 80%;
+}
+
+.book-detail .book-details p {
+  display: inline-block;
+  font-size: 3vw;
+  margin: 2vw 0;
+}
+
+.book-detail .book-details p:last-child {
+  float: right;
+}
+
+.book-detail .book-details p:first-child {
+  float: left;
+  text-transform: capitalize;
+}

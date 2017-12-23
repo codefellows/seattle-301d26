@@ -1,0 +1,19 @@
+.admin-view {
+  position: fixed;
+  top: 5%;
+  left: 0;
+  right: 0;
+  bottom: 60%;
+  width: 90%;
+  z-index: 99;
+  background-color: rgba(120, 120, 120, 1);
+  padding: 0 5%;
+}
+
+.admin-view h2 {
+  margin: 2vw auto;
+}
+
+.admin-only {
+  display: none;
+}

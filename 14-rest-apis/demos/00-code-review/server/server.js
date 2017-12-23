@@ -1,6 +1,7 @@
 'use strict'
 
 // Application dependencies
+const superagent = require('superagent')
 const express = require('express');
 const cors = require('cors');
 const pg = require('pg');
@@ -19,8 +20,15 @@ client.on('error', err => console.error(err));
 app.use(cors());
 
 
+// SUPERAGENT EXAMPLE REQUEST
+// superagent.get('https://api.github.com/users/codefellows/repos?page=2').then(res => console.log(res.body))
+
 // API Endpoints
 app.get('/api/v1/books', (req, res) => {
+  // superagent(/* request to google books api using the name of the book from req.query.title */)
+  // .set('Authorization', 'some token')
+  // .then(/* query your database to set the new record */)
+
   client.query(`SELECT book_id, title, author, image_url, isbn FROM books;`)
   .then(results => res.send(results.rows))
   .catch(console.error);

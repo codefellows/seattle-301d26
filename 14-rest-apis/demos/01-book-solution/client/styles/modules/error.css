@@ -1,0 +1,14 @@
+#error-message {
+  width: 50%;
+  margin: 2vw auto;
+  line-height: 8vw;
+}
+
+#error-message h3 {
+  font-size: 5vw;
+}
+
+#error-message p {
+  font-size: 3vw;
+  color: #d13227;
+}

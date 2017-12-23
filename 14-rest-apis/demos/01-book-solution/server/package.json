@@ -11,9 +11,10 @@
   "author": "Code Fellows, LLC",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "pg": "^7.3.0",
-    "superagent": "^3.8.2"
+    "superagent": "^3.8.0"
   }
 }

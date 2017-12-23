@@ -1,0 +1,11 @@
+.social-links ul {
+  width: 75%;  
+  position: absolute;
+  right: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin: 2vw 0;
+  margin-right: 5%;
+}
